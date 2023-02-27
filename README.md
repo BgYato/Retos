@@ -8,11 +8,7 @@ Entre las múltiples carpetas, cada una de ellas almacena archivos importantes; 
 
 ## LISTADO DE EJERCICIOS
 
-- 1. `ejercicio1.java` = crear un programa capaz de medir el peso de un animal.
-- 2. `ejercicio2.java` = crear un programa que sea capaz de almacenar los servicios y precios de un taller y que el usuario eliga un servicio.
-- 3. `ejercicio3.java` = crear un programa que permita saber si un numero es digito de tres.
-- 4. `ejercicio4.java` = diseñar un programa que permita al usuario hacer un listado de mercado, dando su valor total.
-- 5. `ejercicio5.java` = crear un programa que reporte el estado de un computador
-- 6. `ejercicio6.java` = diseñar un programa que reconozca si un color es primario o no.
-- 7. `ejercicio7.java` = crear un programa que permita conocer el signo zodiacal de un usuario y sus caracteristicas
-- 8. `ejercicio8.java` = crear un programa que permita saber de 3 hijos cual es el mayor, el mediano y el mas joven
+- 1. `ejercicio1.java` = ayudar a la abuela a preparar su torta, ya que la receta dice que el horno debe
+estar a 350 °F pero su horno muestra los grados en °C, condicioes;
+- 1.1. Convertir de centigrados a Kelvin y Farengeith.
+- 1.2. Formula: °K + 100 | °F + 100
