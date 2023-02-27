@@ -1,7 +1,7 @@
 public class reto1 {
     public static void main(String[] args) {
         //Declarar variables
-        double gradosF = 0, gradosK = 0, gradosC = 176.6;                
+        double gradosF = 0, gradosK = 0, gradosC = 350;
 
         //Solicitud de datos
         System.out.println("Hola abuela, te ayudaré a preparar tu torta.");
@@ -21,7 +21,5 @@ public class reto1 {
         gradosK = gradosK + 100;
 
         System.out.println("Pero para tu receta, necesitarás estos grados: \nFarenheit: "+gradosF+". \nKelvin: "+gradosK);
-
-        
     }
 }
