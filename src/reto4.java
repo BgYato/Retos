@@ -4,7 +4,7 @@ public class reto4 {
     public static void main(String[] args) {
         //Declarando variables
         String nombreJugador;
-        //la variable "numeroGanador" sacara un numero aleatoriamente en un rango de 1 a 3
+        //la variable "numeroGanador" sacara un numero aleatoriamente en un rango de 1 a 2
         int edadJugador, eleccionMaquina = (int)(Math.random()*2+1), eleccionJugador; 
 
 
